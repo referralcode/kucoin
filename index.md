@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Kucoin Referral Code
 
-You can use the [editor on GitHub](https://github.com/referralcode/kucoin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Before registering for an to trade on [kucoin.com](https://www.kucoin.com/ucenter/signup?rcode=r3PJMJP) enter Referral Code: r3PJMJP to recieve up to **40%** bonus with your deposit!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
